@@ -1,0 +1,27 @@
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: green;
+    color: white;
+}
+
+.cabecalho {
+    background-color: pink;
+    text-align: center;
+}
+
+.cabecalho p:first-child {
+    color: #222;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.cabecalho p:last-child {
+    color: green;
+}
+
+.conteudo {
+    background-color: #f4f4f4;
+    color: #222222;
+}
